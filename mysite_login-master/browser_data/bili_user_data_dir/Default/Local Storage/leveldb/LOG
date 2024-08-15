@@ -1,0 +1,15 @@
+2024/06/25-12:34:15.321 6d68 Reusing MANIFEST D:\所有文件\课程文件夹\大二\数据库\期末pj相关\mysite_login-master\browser_data\bili_user_data_dir\Default\Local Storage\leveldb/MANIFEST-000001
+2024/06/25-12:34:15.323 6d68 Recovering log #298
+2024/06/25-12:34:15.325 6d68 Reusing old log D:\所有文件\课程文件夹\大二\数据库\期末pj相关\mysite_login-master\browser_data\bili_user_data_dir\Default\Local Storage\leveldb/000298.log 
+2024/06/25-12:35:23.203 60d0 Level-0 table #302: started
+2024/06/25-12:35:23.207 60d0 Level-0 table #302: 18714 bytes OK
+2024/06/25-12:35:23.211 60d0 Delete type=0 #298
+2024/06/25-12:35:23.211 60d0 Compacting 4@0 + 1@1 files
+2024/06/25-12:35:23.216 60d0 Generated table #303@0: 17 keys, 19256 bytes
+2024/06/25-12:35:23.216 60d0 Compacted 4@0 + 1@1 files => 19256 bytes
+2024/06/25-12:35:23.219 60d0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/25-12:35:23.219 60d0 Delete type=2 #290
+2024/06/25-12:35:23.219 60d0 Delete type=2 #293
+2024/06/25-12:35:23.219 60d0 Delete type=2 #296
+2024/06/25-12:35:23.219 60d0 Delete type=2 #299
+2024/06/25-12:35:23.219 60d0 Delete type=2 #302
